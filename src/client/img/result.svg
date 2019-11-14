@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="width: 42px; height: 42px; display: block; overflow: hidden; cursor: move;">
+  <g>
+    <path d="M 10 11 C 11 10 13 10 14 10 L 27 10 C 29 10 30 10 31 11 L 39 20 C 39 21 39 21 39 22 L 31 30 C 30 32 29 32 27 32 L 14 32 C 13 32 11 32 10 30 L 2 22 C 2 21 2 21 2 20 L 10 11 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"></path>
+  </g>
+</svg>

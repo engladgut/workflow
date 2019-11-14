@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "icon": "datasource",
+      "label": "1",
+      "x": 118,
+      "y": 155,
+      "id": "90f12e06-970a-4abd-b32d-2a793c7d0b78"
+    },
+    {
+      "icon": "preprocessing",
+      "label": "2",
+      "x": 249,
+      "y": 221,
+      "id": "6275e99d-4ef9-4d84-aa5f-270bdee1040c"
+    },
+    {
+      "icon": "study",
+      "label": "3-1",
+      "x": 112,
+      "y": 283,
+      "id": "6fce5f41-7e8e-44b9-a22d-6b9597ec8605"
+    },
+    {
+      "icon": "inference",
+      "label": "4",
+      "x": 351,
+      "y": 261,
+      "id": "08afb4a8-c7d9-44dd-bae1-3f2a43823b6e"
+    },
+    {
+      "icon": "result",
+      "label": "5",
+      "x": 370,
+      "y": 147,
+      "id": "f321988a-d793-4fd1-9a32-b079251fcc72"
+    }
+  ],
+  "links": [
+    {
+      "source": "90f12e06-970a-4abd-b32d-2a793c7d0b78",
+      "target": "6275e99d-4ef9-4d84-aa5f-270bdee1040c",
+      "id": "f6f06278-555c-488d-8ed3-b30d5db7a5b4"
+    },
+    {
+      "source": "90f12e06-970a-4abd-b32d-2a793c7d0b78",
+      "target": "6fce5f41-7e8e-44b9-a22d-6b9597ec8605",
+      "id": "a61342bc-d70a-4204-a841-e658b496e9b1"
+    },
+    {
+      "source": "6275e99d-4ef9-4d84-aa5f-270bdee1040c",
+      "target": "08afb4a8-c7d9-44dd-bae1-3f2a43823b6e",
+      "id": "72f72ee5-6329-4603-8397-a9447d35766f"
+    }
+  ]
+}

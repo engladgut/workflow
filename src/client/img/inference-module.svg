@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="width: 42px; height: 42px; display: block; overflow: hidden; cursor: move;">
+  <g>
+    <rect x="2" y="2" width="37" height="37" rx="2" ry="2" fill="#ffffff" stroke="#000000" pointer-events="all"></rect>
+  </g>
+</svg>
